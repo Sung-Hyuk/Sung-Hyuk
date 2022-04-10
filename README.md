@@ -7,7 +7,7 @@ Skills:
 - Finding and reporting bugs, glitches, crashes, missing textures, and quests not working
 - Report editing and proofreading
 
-Trusted as a ‘go-to multitasker’ who excels in anything he puts his mind to and handles any situations with multi-priorities under pressure.
+Trusted as a ‘go-to QA tester’ who excels in anything he puts his mind to and handles any situations with multi-priorities under pressure.
 Clients appreciate my eyes for detail from graphic design work, persistence, voluntary extra work, ability to meet deadlines, and sense of humor.
 
 Learning:
