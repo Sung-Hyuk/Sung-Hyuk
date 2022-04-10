@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Sung-Hyuk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-Incoming English-Korean Localization / Functional Game Tester at Activision Blizzard, Loc-pros & Test IO (test & localization companies)
+Hello, I'm Mr. Sung-Hyuk Kwon from South Korea, currently staying in Korea. 
+Incoming English-Korean Localization / Functional Game Tester at Activision Blizzard (Aug 2022-Aug 2023, Ireland), Loc-pros & Test IO (Freelance test & localization companies)
+Seeking relevant on/offline jobs. Have the United Nations career in Switzerland and Tunisia.
 
 Skills:
 - Mobile/PC/console game English-Korean localization testing (audio, video file / text / graphic)
@@ -16,3 +12,4 @@ Clients appreciate my eyes for detail from graphic design work, persistence, vol
 
 Learning:
 Testing tools (Bugzilla, Jira, etc), test case writing, app testing, game design, and game development
+
