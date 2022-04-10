@@ -16,6 +16,8 @@ Learning:
 Testing tools (Bugzilla, Jira, etc), test case writing, app testing, game design, and game development
 
 Motivation:
-I’ll assure my games’ best quality by creating high-quality bug reports, screenshots, and videos as I got a training of digital content production and prepared lots of reporting materials at the United Nations and Master’s in international studies. I’ll always approach users’ different ways of playing games and what they need from their experiences with my games and give quick/creative feedback on localization quality respecting cultural nuances, what I like/don’t like about games, level suitability, quest play/enjoy-ability, and any aspects to be improved smoothly working with other teams. 
+I’ll assure my games’ best quality by creating high-quality bug reports, screenshots, and videos as I got a training of digital content production and prepared lots of reporting materials at the United Nations and Master’s in international studies. 
+
+I’ll always approach users’ different ways of playing games and what they need from their experiences with my games and give quick/creative feedback on localization quality respecting cultural nuances, what I like/don’t like about games, level suitability, quest play/enjoy-ability, and any aspects to be improved smoothly working with other teams. 
 
 
