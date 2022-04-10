@@ -1,4 +1,5 @@
 Hello, I'm Mr. Sung-Hyuk Kwon from South Korea, currently staying in Korea. 
+
 Incoming English-Korean Localization / Functional Game Tester at Activision Blizzard (Aug 2022-Aug 2023, Ireland), Loc-pros & Test IO (Freelance test & localization companies)
 Seeking relevant on/offline jobs. Have the United Nations career in Switzerland and Tunisia.
 
